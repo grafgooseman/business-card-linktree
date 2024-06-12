@@ -1,0 +1,8 @@
+{
+    "livePreview.defaultPreviewPath": "/index.html",
+    "tailwindCSS.includeLanguages": {
+        "html": "html",
+        "javascript": "javascript",
+        "css": "css"
+    },
+}
